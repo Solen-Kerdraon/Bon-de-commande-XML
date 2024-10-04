@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE BDC SYSTEM "Bdc.dtd">
+<BDC>
+<Entreprise>
+   <Nom>E1</Nom>
+   <Adresse>A1</Adresse>
+   <NTelephone>00.00.00.00.00</NTelephone>
+   <NTelecopie>n°xx</NTelecopie>
+</Entreprise>
+<Entreprise>
+   <Nom>E2</Nom>
+   <Adresse>A2</Adresse>
+   <NTelephone>00.00.00.00.00</NTelephone>
+   <NTelecopie>n°xx</NTelecopie>
+</Entreprise>
+<Date>01/01/2024</Date>
+<Montanttotal>xxx€</Montanttotal>
+<LDC>
+    <Reference>n°xxx</Reference>
+    <Intitule>Intitulé</Intitule>
+    <Quantité>00</Quantité>
+    <PrixUnitaire>xx€</PrixUnitaire>
+</LDC>
+</BDC>

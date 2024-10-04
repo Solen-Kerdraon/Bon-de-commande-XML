@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT BDC (Entreprise, Entreprise, Date, Montanttotal, LDC+)>
+<!ELEMENT Entreprise (Nom, Adresse, NTelephone, NTelecopie?)>
+<!ELEMENT LDC (Reference, Intitule, Quantité, PrixUnitaire)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Montanttotal (#PCDATA)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Adresse (#PCDATA)>
+<!ELEMENT NTelephone (#PCDATA)>
+<!ELEMENT NTelecopie (#PCDATA)>
+<!ELEMENT Reference (#PCDATA)>
+<!ELEMENT Intitule (#PCDATA)>
+<!ELEMENT Quantité (#PCDATA)>
+<!ELEMENT PrixUnitaire (#PCDATA)>
